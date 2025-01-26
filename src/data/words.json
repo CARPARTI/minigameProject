@@ -1,0 +1,302 @@
+[
+    {
+        "word": "Sunset",
+        "tabooWords": [
+            "Evening",
+            "Horizon",
+            "Sky",
+            "Red",
+            "Dusk"
+        ]
+    },
+    {
+        "word": "Laptop",
+        "tabooWords": [
+            "Computer",
+            "Portable",
+            "Keyboard",
+            "Screen",
+            "Device"
+        ]
+    },
+    {
+        "word": "Pizza",
+        "tabooWords": [
+            "Cheese",
+            "Pepperoni",
+            "Slice",
+            "Crust",
+            "Oven"
+        ]
+    },
+    {
+        "word": "Bicycle",
+        "tabooWords": [
+            "Pedal",
+            "Two",
+            "Wheels",
+            "Ride",
+            "Helmet"
+        ]
+    },
+    {
+        "word": "Doctor",
+        "tabooWords": [
+            "Hospital",
+            "Patient",
+            "Medicine",
+            "Surgery",
+            "Nurse"
+        ]
+    },
+    {
+        "word": "Guitar",
+        "tabooWords": [
+            "Strings",
+            "Music",
+            "Instrument",
+            "Strum",
+            "Pick"
+        ]
+    },
+    {
+        "word": "Beach",
+        "tabooWords": [
+            "Sand",
+            "Ocean",
+            "Waves",
+            "Sun",
+            "Vacation"
+        ]
+    },
+    {
+        "word": "Coffee",
+        "tabooWords": [
+            "Caffeine",
+            "Mug",
+            "Hot",
+            "Brew",
+            "Beans"
+        ]
+    },
+    {
+        "word": "Tiger",
+        "tabooWords": [
+            "Stripes",
+            "Jungle",
+            "Cat",
+            "Roar",
+            "Predator"
+        ]
+    },
+    {
+        "word": "Airplane",
+        "tabooWords": [
+            "Flight",
+            "Pilot",
+            "Wings",
+            "Runway",
+            "Travel"
+        ]
+    },
+    {
+        "word": "Camera",
+        "tabooWords": [
+            "Lens",
+            "Picture",
+            "Photo",
+            "Snap",
+            "Flash"
+        ]
+    },
+    {
+        "word": "Library",
+        "tabooWords": [
+            "Books",
+            "Read",
+            "Quiet",
+            "Shelf",
+            "Study"
+        ]
+    },
+    {
+        "word": "Mountain",
+        "tabooWords": [
+            "Peak",
+            "Hike",
+            "Tall",
+            "Climb",
+            "Rock"
+        ]
+    },
+    {
+        "word": "Chocolate",
+        "tabooWords": [
+            "Sweet",
+            "Candy",
+            "Cocoa",
+            "Brown",
+            "Bar"
+        ]
+    },
+    {
+        "word": "Football",
+        "tabooWords": [
+            "Sport",
+            "Team",
+            "Goal",
+            "Kick",
+            "Field"
+        ]
+    },
+    {
+        "word": "Garden",
+        "tabooWords": [
+            "Flowers",
+            "Plants",
+            "Soil",
+            "Grow",
+            "Weed"
+        ]
+    },
+    {
+        "word": "Spider",
+        "tabooWords": [
+            "Web",
+            "Crawl",
+            "Eight",
+            "Legs",
+            "Insect"
+        ]
+    },
+    {
+        "word": "Robot",
+        "tabooWords": [
+            "Machine",
+            "Artificial",
+            "Program",
+            "Metal",
+            "Android"
+        ]
+    },
+    {
+        "word": "Castle",
+        "tabooWords": [
+            "King",
+            "Queen",
+            "Fortress",
+            "Moat",
+            "Knight"
+        ]
+    },
+    {
+        "word": "Rainbow",
+        "tabooWords": [
+            "Colors",
+            "Arc",
+            "Rain",
+            "Sky",
+            "Spectrum"
+        ]
+    },
+    {
+        "word": "Elephant",
+        "tabooWords": [
+            "Trunk",
+            "Large",
+            "Tusks",
+            "Gray",
+            "Animal"
+        ]
+    },
+    {
+        "word": "Clock",
+        "tabooWords": [
+            "Time",
+            "Hour",
+            "Minute",
+            "Second",
+            "Tick"
+        ]
+    },
+    {
+        "word": "Fireworks",
+        "tabooWords": [
+            "Explode",
+            "Colors",
+            "Night",
+            "Celebrate",
+            "Boom"
+        ]
+    },
+    {
+        "word": "Ocean",
+        "tabooWords": [
+            "Water",
+            "Waves",
+            "Salt",
+            "Sea",
+            "Blue"
+        ]
+    },
+    {
+        "word": "Banana",
+        "tabooWords": [
+            "Fruit",
+            "Yellow",
+            "Peel",
+            "Monkey",
+            "Smoothie"
+        ]
+    },
+    {
+        "word": "Car",
+        "tabooWords": [
+            "Drive",
+            "Engine",
+            "Wheels",
+            "Road",
+            "Vehicle"
+        ]
+    },
+    {
+        "word": "Volcano",
+        "tabooWords": [
+            "Lava",
+            "Eruption",
+            "Mountain",
+            "Ash",
+            "Hot"
+        ]
+    },
+    {
+        "word": "Lion",
+        "tabooWords": [
+            "Roar",
+            "Mane",
+            "Pride",
+            "Cat",
+            "Wild"
+        ]
+    },
+    {
+        "word": "Bridge",
+        "tabooWords": [
+            "Cross",
+            "River",
+            "Connect",
+            "Span",
+            "Road"
+        ]
+    },
+    {
+        "word": "Jungle",
+        "tabooWords": [
+            "Forest",
+            "Trees",
+            "Wild",
+            "Animals",
+            "Green"
+        ]
+    }
+]
